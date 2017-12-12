@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: gsw
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Allan
+Implementation-Vendor-Id: com.saque
+Build-Jdk: 1.8.0_152
+Implementation-URL: http://projects.spring.io/spring-boot/gsw/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
